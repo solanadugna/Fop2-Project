@@ -1,0 +1,9 @@
+﻿  _mainQuiz.cpp
+  _question.cpp
+  _user.cpp
+C:\Users\Administrator\Desktop\FoP2 Final project\_user.cpp(192,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\Desktop\FoP2 Final project\_user.cpp(192,18): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  _mainQuiz.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Quiz Application.vcxproj -> C:\Users\Administrator\Desktop\FoP2 Final project\x64\Debug\Quiz Application.exe

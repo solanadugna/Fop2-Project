@@ -1,0 +1,7 @@
+Name: Solan Adugna
+Email: solan.adugna@gmail.com
+Password: WXYZ
+Type: Student
+
+Cat - E : D-level - 2 : Score - 1/3 : Time - 24.0442 sec
+Cat - A : D-level - 1 : Score - 8/10 : Time - 112.103 sec

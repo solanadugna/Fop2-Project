@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\_user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|solutionrelative:_user.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|solutionrelative:user.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\_question.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|solutionrelative:_question.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\_mainQuiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|solutionrelative:_mainQuiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{820397D6-1E1D-4F5A-A31B-87A8178EF198}|Quiz Application.vcxproj|solutionrelative:question.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\arm64_neon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "arm64_neon.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\arm64_neon.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\arm64_neon.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\arm64_neon.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\arm64_neon.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T14:17:48.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "user.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\user.h",
+              "RelativeDocumentMoniker": "user.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\user.h",
+              "RelativeToolTip": "user.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T14:17:15.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_mainQuiz.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\_mainQuiz.cpp",
+              "RelativeDocumentMoniker": "_mainQuiz.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\_mainQuiz.cpp",
+              "RelativeToolTip": "_mainQuiz.cpp",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowCsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T13:35:30.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_question.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\_question.cpp",
+              "RelativeDocumentMoniker": "_question.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\_question.cpp",
+              "RelativeToolTip": "_question.cpp",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAowJQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T13:34:36.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "question.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\question.h",
+              "RelativeDocumentMoniker": "question.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\question.h",
+              "RelativeToolTip": "question.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-20T13:33:39.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_user.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\_user.cpp",
+              "RelativeDocumentMoniker": "_user.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\FoP2 Final project\\_user.cpp",
+              "RelativeToolTip": "_user.cpp",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowAQBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T13:29:13.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
